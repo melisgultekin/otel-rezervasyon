@@ -20,7 +20,7 @@ Otel rezervasyon ve konaklama süreçlerini dijital ortamda yönetmeyi amaçlaya
 | Programlama Dili | Java |
 | Backend | Spring Boot |
 | Frontend | HTML, CSS, JavaScript |
-| Veritabanı | MySQL 8.0 |
+| Veritabanı | Microsoft SQL Server (MSSQL) |
 | Sürüm Kontrolü | Git, GitHub |
 
 ## ✨ Temel Özellikler
